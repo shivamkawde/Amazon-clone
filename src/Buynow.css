@@ -1,0 +1,46 @@
+.Fullname{
+    height: 41px;
+    width: 23em;
+    margin-top: 3px;
+    display: block;
+    text-align: center;
+}
+.form{
+    
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.orderBtn{
+    width: 19.7rem;
+    margin-top: 3px;
+    /* border: black; */
+    border: none;
+    background-color: blue;
+    height: 3rem;
+    background-color: green;
+}
+.payment{
+    height: 3rem;
+    width: 19.7rem;
+    margin-top: 3px;
+}
+.orderDone{
+    position: absolute;
+    left: 30rem;
+    top: 14rem;
+    /* height: 20rem; */
+    /* width: 20rem; */
+    padding: 7rem;
+    background: #128038;
+
+}
+.thanku{
+    position: absolute;
+    left: 30rem;
+    top: 10rem;
+    /* height: 20rem; */
+    /* width: 20rem; */
+    
+
+}

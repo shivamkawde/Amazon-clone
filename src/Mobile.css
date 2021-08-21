@@ -1,0 +1,30 @@
+.mobileCard img{
+
+    height: 15rem;
+    width: 15rem;
+}
+.mobileimage{
+    height: 15rem;
+    width: 15rem;
+}
+.mobileCard{
+
+    display: flex;
+    flex-direction: row;
+
+
+}
+.filter{
+    height: 3rem;
+    margin-top: 3.5rem;
+    margin-bottom: 2px;
+}
+
+
+
+.addtocart-btn{
+    height: 3rem;
+    margin-bottom: 2px;
+    margin-left: 1px;
+    background: #cd9042
+}

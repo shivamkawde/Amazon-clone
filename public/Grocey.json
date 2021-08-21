@@ -1,0 +1,40 @@
+[
+    {
+        "name":"Salt",
+        "company":"TATA",
+        "price":18,
+        "id":1,
+        "image":"https://m.media-amazon.com/images/I/61n1hm72dlL._SL1000_.jpg"
+    },
+    {
+        "name":"Tooth paste",
+        "company":"Daubar",
+        "price":64,
+        "id":2,
+        "image":"https://res.sastasundar.com/incom/images/product/Dabur-Red-Toothpaste-1606463853-10065886-1.jpg"
+    },
+
+    {
+        "name":"Red Lable",
+        "company":"",
+        "price":90,
+        "id":3,
+        "image":"https://m.media-amazon.com/images/I/716kLzGkrsL._SL1442_.jpg"
+    },
+    
+    {
+        "name":"Fortune",
+        "company":"Fortune",
+        "price":200,
+        "id":4,
+        "image":"https://5.imimg.com/data5/WH/LC/MY-48490939/1-kg-refined-oil-500x500.jpg"
+    },
+    {
+        "name":"SimpArte Plastic",
+        "company":"soft",
+        "price":500,
+        "id":5,
+        "image":"https://m.media-amazon.com/images/I/71+PFBjO90L._SL1500_.jpg"
+    }
+      
+]

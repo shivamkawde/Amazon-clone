@@ -1,0 +1,68 @@
+.LoginContainer {
+    
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 46%;
+    border: solid 0px;
+    width: 32%;
+    background-color: white;
+    /* box-shadow: 1px 1px 5px grey; */
+    border: solid 1px gray;
+  }
+  .username {
+    height: 10%;
+    width: 75%;
+    margin-top: 5px;
+    text-align: center;
+  }
+  .password {
+    height: 10%;
+    width: 75%;
+    margin-top: 10px;
+    text-align: center;
+  }
+  .login-btn {
+    height: 10%;
+    width: 76%;
+    margin-top: 10px;
+  }
+  .login-google {
+    height: 10%;
+    width: 75%;
+    margin-top: 10px;
+    background-color: #cd9042;
+    border: none;
+    box-shadow: 1px 1px 5px grey;
+    transition: transform 100ms;
+  }
+  .login-google:hover {
+    transform: scale(1.02);
+  }
+  .instaLogo {
+    height: 33%;
+    width: 64%;
+  }
+  .or {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: gray;
+  }
+  .createAc{
+    position: absolute;
+    top: 58%;
+    left: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    /* box-shadow: 1px 1px 5px grey; */
+    width: 32%;
+    height: 6%;
+    border: solid 1px gray;
+    
+    
+  }

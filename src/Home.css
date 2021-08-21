@@ -1,0 +1,104 @@
+.home{
+    height: 100vh;
+    width: 100vw;
+}
+.catagries{
+
+    height: auto;
+    width: 100%;
+    background-color: whitesmoke;
+    
+    display: flex;
+    
+
+}
+.mobile{
+    height: 5rem;
+    width: 10%;
+    padding-top: 3%;
+    padding-left: 3%;
+    background: white;
+    margin-top: 5rem;
+    box-shadow: 1px 1px 3px grey;
+    margin-right: 2%;
+}
+.bestSeelingComputer{
+    height: auto;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    overflow-y: scroll;
+    
+
+}
+
+
+.bestSeelingComputer img{
+    height: 14rem;
+    margin-top: 3px;
+    transition: transform 450ms;
+}
+.computerheading{
+
+     margin-top: 3%;
+}
+.bestSeelingComputer img:hover{
+   transform: scale(1.08);
+}
+
+
+
+
+.topDeals{
+    height: auto;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    overflow-y: scroll;
+    
+
+}
+
+.topDealsItems{
+
+    /* height: 5rem;
+    width: 10%; */
+    
+    background: white;
+    margin-right: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.topDealsItems img{
+    height: 14rem;
+    margin-top: 3px;
+    transition: transform 450ms;
+
+
+}
+.addToCart{
+    background: #cd9042;
+    border:  solid 1px orange;
+    padding: 6px
+}
+
+.cushioncovers{
+    display: flex;
+    background-color: white;
+}
+.cushioncoversInfo img
+{
+    height: 24rem;
+    width: 28rem;
+}
+
+.cushioncoversInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

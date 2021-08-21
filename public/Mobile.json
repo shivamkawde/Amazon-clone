@@ -1,0 +1,145 @@
+[
+    {
+    "name":"Samsung-m30",
+    "color":"blue",
+    "Ram":"3 gb",
+    "Rom":"32 gb",
+    "Battery":"5000 MH",
+    "price":10000,
+    "frontcamera":"7 MP",
+    "rearcamera":"12 MP" ,
+    "company":"Samsung",
+    "image":"https://m.media-amazon.com/images/I/71ZmHmLIIZL._SL1500_.jpg"
+   }
+
+,
+   {
+    "name":"Vivo v11 pro",
+    "color":"black",
+    "Ram":"8 gb",
+    "Rom":"128 gb",
+    "Battery":"4000 MH",
+    "price":24990,
+    "frontcamera":"32 MP",
+    "rearcamera":"64 MP" ,
+    "company":"Vivo",
+    "image":"https://4.imimg.com/data4/FL/KJ/ANDROID-50203930/product-500x500.jpeg"
+   },
+
+
+   {
+    "name":"Oppo a74 5g",
+    "color":"white",
+    "Ram":"4 gb",
+    "Rom":"128 gb",
+    "Battery":"4000 MH",
+    "price":17990,
+    "frontcamera":"20 MP",
+    "rearcamera":"48 MP" ,
+    "company":"Oppo",
+    "image":"https://image.oppo.com/content/dam/oppo/product-asset-library/specs/odin/a74-1920.jpg"
+   }
+,
+
+{
+    "name":"iphoen-12 pro max",
+    "color":"black",
+    "Ram":"4 gb",
+    "Rom":"128 gb",
+    "Battery":"5000 MH",
+    "price":119650,
+    "frontcamera":"20 MP",
+    "rearcamera":"48 MP" ,
+    "company":"Apple",
+    "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-family-hero?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1604021663000"
+   }
+,
+
+{
+    "name":"realme c11",
+    "color":"black",
+    "Ram":"2 gb",
+    "Rom":"32 gb",
+    "Battery":"5000 MH",
+    "price":6999,
+    "frontcamera":"5 MP",
+    "rearcamera":"8 MP" ,
+    "company":"realme",
+    "image":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202007/Screenshot_2020-07-14_at_1.37._0.png?tVi4zs_ZTA4Z0j1kAYGll4DQUwViIuDG&size=1200:675"
+
+}
+,
+
+{
+    "name":"redme 9A",
+    "color":"white",
+    "Ram":"2 gb",
+    "Rom":"32 gb",
+    "Battery":"5000 MH",
+    "price":6999,
+    "frontcamera":"5 MP",
+    "rearcamera":"13 MP" ,
+    "company":"Redme",
+     "image":"https://www.techinn.com/f/13771/137713923/xiaomi-redmi-9a-2gb-32gb-6.53-dual-sim-smartphone.jpg"
+}
+,
+{
+    "name":"Panasonic Eluga i7",
+    "color":"black",
+    "Ram":"2 gb",
+    "Rom":"32 gb",
+    "Battery":"5000 MH",
+    "price":5778,
+    "frontcamera":"5 MP",
+    "rearcamera":"13 MP" ,
+    "company":"Panasonic",
+     "image":"https://i.gadgets360cdn.com/products/large/1524217770_635_panasonic_eluga_I7_Black_db.jpg"
+
+    }
+,
+{
+    "name":"Samsung Galaxy M02 ",
+    "color":"white",
+    "Ram":"2 gb",
+    "Rom":"32 gb",
+    "Battery":"5000 MH",
+    "price":7999,
+    "frontcamera":"2 MP",
+    "rearcamera":"13 MP" ,
+    "company":"Samsung",
+    "image":"https://i.gadgets360cdn.com/large/samsung_galaxy_m02_image_1612252515551.jpg"
+}
+
+
+
+,
+{
+    "name":"Samsung Galaxy M11 ",
+    "color":"white",
+    "Ram":"6 gb",
+    "Rom":"128 gb",
+    "Battery":"5000 MH",
+    "price":7999,
+    "frontcamera":"32 MP",
+    "rearcamera":"64 MP" ,
+    "company":"Samsung",
+    "image":"https://www.universmartphone.com/wp-content/uploads/2020/03/samsung-quietly-unveils-galaxy-a11-with-lcd-screen-4000mah-battery-17.jpg"
+}
+
+
+,
+{
+    "name":"OnePlus 9R 5G",
+    "color":"white",
+    "Ram":"8 gb",
+    "Rom":"128 gb",
+    "Battery":"5000 MH",
+    "price":39999,
+    "frontcamera":"16 MP",
+    "rearcamera":"48 MP" ,
+    "company":"Oneplus",
+    "image":"https://image01-in.oneplus.net/shop/202103/18/1-M00-22-28-rB8bwmBS9wGAflxwAAGVI54cNps345.jpg"
+}
+
+
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "company":"Hp",
+         "model":"hp 15",
+          "price":27990,
+          "core":"i3",
+          "color":"black",
+          "Ram":"4 gb",
+           "image":"https://5.imimg.com/data5/PX/HU/VX/SELLER-10750822/hp-1066au-500x500.png"
+    },
+
+
+    {
+        "company":"Dell",
+         "model":"Dell New Latitude 3410 ",
+          "price":40795,
+          "core":"i3",
+          "color":"black",
+          "Ram":"4 gb",
+           "image":"https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/latitude_notebooks/14_3410/pdp/laptop-latitude-14-3410-pdp-gallery-504x350.jpg?fmt=jpg&wid=570&hei=400"
+    },
+
+
+    
+    {
+        "company":"Asus",
+         "model":"ASUS VivoBook 14",
+          "price":35990,
+          "core":"i3",
+          "color":"black",
+          "Ram":"4 gb",
+           "image":"https://m.media-amazon.com/images/I/716bvqzz7PL._SL1500_.jpg"
+    },
+    {
+        "company":"Dell",
+         "model":"DELL Inspiron 3501",
+          "price":43895,
+          "core":"i5",
+          "color":"white",
+          "Ram":"8 gb",
+           "image":"https://i.dell.com/is/image/DellContent//content/dam/global-asset-library/Products/Notebooks/Inspiron/14_5402_non-touch/in5402nt_cnb_00060lb055_gy.psd?fmt=pjpg&amp;pscan=auto&amp;scl=1&amp;hei=402&amp;wid=557&amp;qlt=85,0&amp;resMode=sharp2&amp;op_usm=1.75,0.3,2,0&amp;size=557,402"
+    },
+
+    {
+        "company":"Asus",
+         "model":"ASUS TUF Gaming F15 Laptop 15.6",
+          "price":61990,
+          "core":"i5",
+          "color":"white",
+          "Ram":"4 gb",
+           "image":"https://5.imimg.com/data5/SELLER/Default/2021/1/LW/LC/ZF/46613191/asus-rog-zephyrus-g14-gaming-laptop-ryzen-5-4600hs-8gb-512gb-ssd-1-6-kg-ga401ih-he042ts-500x500.jpg"
+    },
+         
+    {
+        "company":"Hp",
+         "model":"Victus by HP Ryzen 5 5600H",
+          "price":74990,
+          "core":"i7",
+          "color":"black",
+          "Ram":"8 gb",
+         "image":"https://m.media-amazon.com/images/I/41ozwujDVTS.jpg"
+    
+        },
+
+        {
+            "company":"Lenovo",
+             "model":"Lenovo V15 AMD",
+              "price":30190,
+              "core":"i3",
+              "color":"white",
+              "Ram":"4 gb",
+             "image":"https://m.media-amazon.com/images/I/61U0JQ6HnHL._SL1302_.jpg"
+        
+            },
+
+            {
+                "company":"Lenovo",
+                 "model":"Lenovo IdeaPad Slim 5 11th Gen",
+                  "price":61100,
+                  "core":"i5",
+                  "color":"white",
+                  "Ram":"8 gb",
+                 "image":"https://m.media-amazon.com/images/I/718uP1QbQQL._SL1500_.jpg"
+            
+                }
+
+,
+
+{
+    "company":"Apple",
+     "model":"2020 Apple MacBook Pro",
+      "price":108591,
+      "core":"i5",
+      "color":"white",
+      "Ram":"8 gb",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-cAySi87BUJoICnl5TLmOZk35XUFK7npiaA&usqp=CAU"
+
+    }
+
+
+    
+
+]
